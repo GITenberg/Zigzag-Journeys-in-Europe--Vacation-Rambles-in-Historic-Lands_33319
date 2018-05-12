@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5730
     wikipedia: http://en.wikipedia.org/wiki/Hezekiah_Butterworth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33319#Zigzag-Journeys-in-Europe--Vacation-Rambles-in-Historic-Lands
 gutenberg_issued: '2010-08-01'
 gutenberg_type: Text
 identifiers:
